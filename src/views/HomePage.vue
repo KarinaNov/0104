@@ -8,8 +8,8 @@
 
 <script>
 import Rewiews from "@/components/Rewiews.vue";
-import UserInfo from "../components/UserInfo";
-import SendForm from "../components/SendForm";
+import UserInfo from "@/components/UserInfo";
+import SendForm from "@/components/SendForm";
 export default {
   components: {
     UserInfo,
